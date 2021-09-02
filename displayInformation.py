@@ -1,6 +1,0 @@
-print("Hello")
-print("Mình tên là Lê Quang Đạt")
-print("Thành viên lớp CodeGym Python Cơ bản")
-print("Ngày sinh: 21/02/1998")
-print("Địa chỉ: 196 Khương Đình, Thanh Xuân, Hà Nội")
-print("Mục đích đến với khoá học: Trang bị kiến thức về Python cơ bản và tư duy lập trình")
